@@ -1,0 +1,12 @@
+admin@company.org
+contact@mywebsite.com
+feedback@example.com
+hello@example.com
+help@startup.io
+hr@startup.io
+info@mywebsite.com
+jane_smith@example.com
+john.doe@example.com
+marketing@company.org
+sales@company.org
+support@company.org

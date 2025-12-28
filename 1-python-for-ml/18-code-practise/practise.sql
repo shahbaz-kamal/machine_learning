@@ -1,5 +1,9 @@
--- Active: 1766057791256@@127.0.0.1@5432@geeksforgeeks@public
+-- Active: 1766057791256@@127.0.0.1@5432@geeksforgeeks
 -- Create Products table
+
+create database job_interview
+
+drop database job_interview
 
 CREATE TABLE Products (
     product_id INT PRIMARY KEY,
